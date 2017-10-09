@@ -5,8 +5,6 @@ static TextLayer *text_layer;
 
 #define TIMER_INTERVAL_MS 60000
 
-// boolean isReminding - tells us if we are in remind mode
-
 static void timer_callback(void *context) {
   //Update the text
   text_layer_set_text(text_layer, "Are you \ndoing your work?");
