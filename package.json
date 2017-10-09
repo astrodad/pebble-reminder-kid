@@ -1,0 +1,21 @@
+{
+    "author": "javierplumey@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "remind-alex",
+    "pebble": {
+        "displayName": "Remind Alex",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "1c32e2e0-d4fa-41ec-b5d6-6e1993c19e0d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
